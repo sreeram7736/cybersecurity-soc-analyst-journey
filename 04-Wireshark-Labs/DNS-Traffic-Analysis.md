@@ -18,15 +18,4 @@ Personal computer and authorized network.
 5. Apply the DNS display filter.
 6. Observe DNS requests and responses.
 
-## Observations
-(Add your actual observations here.)
 
-## Security Relevance
-DNS analysis can help SOC analysts identify
-suspicious domains and unusual DNS activity.
-
-## Screenshots
-
-
-## Conclusion
-(Write what you learned.)
